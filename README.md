@@ -42,6 +42,8 @@ In this industry if you don't keep learing you'll get left behind. I’ve spent 
 
 [Modern React with Redux - 2023 Update](https://www.udemy.com/certificate/UC-68edda0d-383b-457d-b31d-a6669f179952/)
 
+[50 Projects in 50 Days - HTML, CSS and Javascript](https://www.udemy.com/certificate/UC-935f7c9a-6b21-4ec2-9682-66cd49a85684/)
+
 **Team Treehouse**
 
 [Learn React Track](https://teamtreehouse.com/profiles/kevinpmcdaniel)
